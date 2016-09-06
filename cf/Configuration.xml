@@ -136,7 +136,6 @@
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Склады</Catalog>
 			<Catalog>ЗаявкиПользователей</Catalog>
-			<Document>Поступление</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
