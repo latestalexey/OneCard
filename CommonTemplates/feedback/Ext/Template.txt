@@ -1,0 +1,16 @@
+﻿<html>
+<head>
+	<title>Feedback</title>
+	<meta charset="utf-8">
+</head>
+<body>	
+	<p><b>Задайте нам вопрос</b></p>	
+	<form id="feedback" name="feedback" method="post" action="feedback">
+		<p>Email:<input type="email" id="you_email" name="you_email"></p>
+		<p><b>Сообщение:</b></p>
+		<p><textarea name="comment" cols=30></textarea></p>
+		<input type="submit" id="sendfeedback" name="sendfeedback" value="Отправить">
+	</form>
+
+</body>
+</html>

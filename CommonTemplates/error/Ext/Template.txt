@@ -1,0 +1,13 @@
+﻿<html>
+<head>
+	<title>Feedback</title>
+	<meta charset="utf-8">
+</head>
+<body>	
+	<p><b>Заявка не отправлена!</b></p>	
+
+	<form id="back" name="back" method="post" action="feedback">
+		<input type="submit" id="sendback" name="sendback" value="Попробовать еще раз">
+	</form>
+</body>
+</html>
