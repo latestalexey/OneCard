@@ -22,6 +22,9 @@ CommonTemplates\ГлавнаяСтраница\Ext\Template.xml-->CommonTemplate
 CommonTemplates\ГлавнаяСтраница\Ext\Template\ru.html-->CommonTemplates\ГлавнаяСтраница\Ext\Template\ru.html
 Constants\ИмяСервера.xml-->Constants\ИмяСервера.xml
 Documents\Поступление.xml-->Documents\Поступление.xml
+Documents\Поступление\Forms\ФормаДокумента.xml-->Documents\Поступление\Forms\ФормаДокумента.xml
+Documents\Поступление\Forms\ФормаДокумента\Ext\Form.xml-->Documents\Поступление\Forms\ФормаДокумента\Ext\Form.xml
+Documents\Поступление\Forms\ФормаДокумента\Ext\Form\Module.bsl-->Documents\Поступление\Forms\ФормаДокумента\Ext\Form\Module.bsl
 Ext\StartPageWorkingArea.xml-->Ext\StartPageWorkingArea.xml
 HTTPServices\DevelPlatformRu.xml-->HTTPServices\DevelPlatformRu.xml
 HTTPServices\feedback.xml-->HTTPServices\feedback.xml
