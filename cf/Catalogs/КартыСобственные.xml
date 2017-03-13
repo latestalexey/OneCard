@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.2">
-	<Catalog uuid="44d0d42d-020f-4ac0-a5f5-6c12666fa7ab">
+	<Catalog uuid="1004133f-80ab-4918-baab-68897d22d159">
 		<InternalInfo>
-			<xr:GeneratedType name="CatalogObject.Контрагенты" category="Object">
-				<xr:TypeId>09b7c2cd-7b4f-4b4f-8987-84faedd1f806</xr:TypeId>
-				<xr:ValueId>6dbeaca3-cde3-4c67-9c0f-21f2ffb96fec</xr:ValueId>
+			<xr:GeneratedType name="CatalogObject.КартыСобственные" category="Object">
+				<xr:TypeId>bf6a37b5-0d3d-4982-a87c-eafc571fe9c7</xr:TypeId>
+				<xr:ValueId>ef4ac1f7-8ffc-4f08-a485-20e05816276f</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogRef.Контрагенты" category="Ref">
-				<xr:TypeId>7d982c35-86e2-4c4d-b1ae-61b61be950e0</xr:TypeId>
-				<xr:ValueId>3a0c676f-85b5-4297-8518-cb4f86b43c5d</xr:ValueId>
+			<xr:GeneratedType name="CatalogRef.КартыСобственные" category="Ref">
+				<xr:TypeId>b0aabfb7-b453-4e74-bcc7-9b5020d2bee9</xr:TypeId>
+				<xr:ValueId>e242fb63-49ed-4ae7-a2d3-3c6bb807a5cc</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogSelection.Контрагенты" category="Selection">
-				<xr:TypeId>0b973ed6-b8eb-456e-ae60-64aab65b752a</xr:TypeId>
-				<xr:ValueId>68e83ec0-f1f5-4b06-8235-ff94c051cf6f</xr:ValueId>
+			<xr:GeneratedType name="CatalogSelection.КартыСобственные" category="Selection">
+				<xr:TypeId>11f476cf-a398-4f61-9b01-55f1cca926d7</xr:TypeId>
+				<xr:ValueId>fdaeb0a4-8c56-4a86-ac4d-e4109eebd8ca</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogList.Контрагенты" category="List">
-				<xr:TypeId>aad56569-78ec-4436-aa86-345f7e3e0c54</xr:TypeId>
-				<xr:ValueId>d42d2df1-99d1-4276-8756-803c72e4a121</xr:ValueId>
+			<xr:GeneratedType name="CatalogList.КартыСобственные" category="List">
+				<xr:TypeId>d7138275-4e32-498a-966c-eba369782f64</xr:TypeId>
+				<xr:ValueId>740f7df3-6736-4f76-8eb6-6dbea8370eb7</xr:ValueId>
 			</xr:GeneratedType>
-			<xr:GeneratedType name="CatalogManager.Контрагенты" category="Manager">
-				<xr:TypeId>606f28c6-4a1f-463c-a137-151dd593b6f4</xr:TypeId>
-				<xr:ValueId>a4d521fb-0610-49f5-a6f3-75bee91a44d1</xr:ValueId>
+			<xr:GeneratedType name="CatalogManager.КартыСобственные" category="Manager">
+				<xr:TypeId>ca089a16-ec08-4eb2-ba52-85dd84646091</xr:TypeId>
+				<xr:ValueId>15cc175e-340c-4daf-95b4-a031f75803d5</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>Контрагенты</Name>
+			<Name>КартыСобственные</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Контрагенты</v8:content>
+					<v8:content>Карты собственные</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -41,21 +41,20 @@
 			<Owners/>
 			<SubordinationUse>ToItems</SubordinationUse>
 			<CodeLength>9</CodeLength>
-			<DescriptionLength>25</DescriptionLength>
+			<DescriptionLength>0</DescriptionLength>
 			<CodeType>String</CodeType>
 			<CodeAllowedLength>Variable</CodeAllowedLength>
 			<CodeSeries>WholeCatalog</CodeSeries>
 			<CheckUnique>true</CheckUnique>
 			<Autonumbering>true</Autonumbering>
-			<DefaultPresentation>AsDescription</DefaultPresentation>
+			<DefaultPresentation>AsCode</DefaultPresentation>
 			<Characteristics/>
 			<PredefinedDataUpdate>Auto</PredefinedDataUpdate>
 			<EditType>InDialog</EditType>
 			<QuickChoice>false</QuickChoice>
 			<ChoiceMode>BothWays</ChoiceMode>
 			<InputByString>
-				<xr:Field>Catalog.Контрагенты.StandardAttribute.Description</xr:Field>
-				<xr:Field>Catalog.Контрагенты.StandardAttribute.Code</xr:Field>
+				<xr:Field>Catalog.КартыСобственные.StandardAttribute.Code</xr:Field>
 			</InputByString>
 			<SearchStringModeOnInputByString>Begin</SearchStringModeOnInputByString>
 			<FullTextSearchOnInputByString>DontUse</FullTextSearchOnInputByString>
@@ -83,6 +82,50 @@
 			<CreateOnInput>Use</CreateOnInput>
 			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
 		</Properties>
-		<ChildObjects/>
+		<ChildObjects>
+			<Attribute uuid="61d0640d-8c7a-4242-a2c4-00086e49f2f6">
+				<Properties>
+					<Name>КодКарты</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Код карты</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>200</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+					<PasswordMode>false</PasswordMode>
+					<Format/>
+					<EditFormat/>
+					<ToolTip/>
+					<MarkNegatives>false</MarkNegatives>
+					<Mask/>
+					<MultiLine>false</MultiLine>
+					<ExtendedEdit>false</ExtendedEdit>
+					<MinValue xsi:nil="true"/>
+					<MaxValue xsi:nil="true"/>
+					<FillFromFillingValue>false</FillFromFillingValue>
+					<FillValue xsi:type="xs:string"/>
+					<FillChecking>DontCheck</FillChecking>
+					<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
+					<ChoiceParameterLinks/>
+					<ChoiceParameters/>
+					<QuickChoice>Auto</QuickChoice>
+					<CreateOnInput>Auto</CreateOnInput>
+					<ChoiceForm/>
+					<LinkByType/>
+					<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+					<Use>ForItem</Use>
+					<Indexing>DontIndex</Indexing>
+					<FullTextSearch>Use</FullTextSearch>
+				</Properties>
+			</Attribute>
+		</ChildObjects>
 	</Catalog>
 </MetaDataObject>
